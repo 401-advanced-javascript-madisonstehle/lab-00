@@ -6,7 +6,7 @@
 
 ### Links and Resources
 
-- [submission PR](http://xyz.com)
+- [submission PR](https://github.com/401-advanced-javascript-madisonstehle/lab-00/pulls?q=is%3Apr+is%3Aclosed)
 - [ci/cd](https://github.com/401-advanced-javascript-madisonstehle/lab-00/actions) (GitHub Actions)
 - [front-end server](https://madisonstehle-lab-00.herokuapp.com/) (when applicable)
 
